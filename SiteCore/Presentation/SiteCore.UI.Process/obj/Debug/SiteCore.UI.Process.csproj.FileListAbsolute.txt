@@ -1,0 +1,8 @@
+E:\SiteCore\Presentation\SiteCore.UI.Process\bin\Debug\SiteCore.UI.Process.dll
+E:\SiteCore\Presentation\SiteCore.UI.Process\bin\Debug\SiteCore.UI.Process.pdb
+E:\SiteCore\Presentation\SiteCore.UI.Process\obj\Debug\SiteCore.UI.Process.csprojResolveAssemblyReference.cache
+E:\SiteCore\Presentation\SiteCore.UI.Process\obj\Debug\SiteCore.UI.Process.dll
+E:\SiteCore\Presentation\SiteCore.UI.Process\obj\Debug\SiteCore.UI.Process.pdb
+E:\SiteCore\Presentation\SiteCore.UI.Process\bin\Debug\SiteCore.UI.Process.dll.config
+E:\SiteCore\Presentation\SiteCore.UI.Process\bin\Debug\SiteCore.Business.Entities.dll
+E:\SiteCore\Presentation\SiteCore.UI.Process\bin\Debug\SiteCore.Business.Entities.pdb

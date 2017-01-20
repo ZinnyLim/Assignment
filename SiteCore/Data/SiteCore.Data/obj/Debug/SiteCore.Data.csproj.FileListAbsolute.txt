@@ -1,0 +1,11 @@
+E:\SiteCore\Data\SiteCore.Data\bin\Debug\SiteCore.Data.dll
+E:\SiteCore\Data\SiteCore.Data\bin\Debug\SiteCore.Data.pdb
+E:\SiteCore\Data\SiteCore.Data\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\SiteCore\Data\SiteCore.Data\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\SiteCore\Data\SiteCore.Data\bin\Debug\SiteCore.Business.Entities.dll
+E:\SiteCore\Data\SiteCore.Data\bin\Debug\SiteCore.Business.Entities.pdb
+E:\SiteCore\Data\SiteCore.Data\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\SiteCore\Data\SiteCore.Data\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\SiteCore\Data\SiteCore.Data\obj\Debug\SiteCore.Data.csprojResolveAssemblyReference.cache
+E:\SiteCore\Data\SiteCore.Data\obj\Debug\SiteCore.Data.dll
+E:\SiteCore\Data\SiteCore.Data\obj\Debug\SiteCore.Data.pdb

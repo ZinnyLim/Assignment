@@ -1,0 +1,7 @@
+E:\SiteCore\Services\SiteCore.Services.Contracts\obj\Debug\SiteCore.Services.Contracts.csprojResolveAssemblyReference.cache
+E:\SiteCore\Services\SiteCore.Services.Contracts\bin\Debug\SiteCore.Services.Contracts.dll
+E:\SiteCore\Services\SiteCore.Services.Contracts\bin\Debug\SiteCore.Services.Contracts.pdb
+E:\SiteCore\Services\SiteCore.Services.Contracts\bin\Debug\SiteCore.Business.Entities.dll
+E:\SiteCore\Services\SiteCore.Services.Contracts\bin\Debug\SiteCore.Business.Entities.pdb
+E:\SiteCore\Services\SiteCore.Services.Contracts\obj\Debug\SiteCore.Services.Contracts.dll
+E:\SiteCore\Services\SiteCore.Services.Contracts\obj\Debug\SiteCore.Services.Contracts.pdb

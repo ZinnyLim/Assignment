@@ -1,0 +1,17 @@
+E:\SiteCore\Services\SiteCore.Services\bin\Debug\SiteCore.Services.dll
+E:\SiteCore\Services\SiteCore.Services\bin\Debug\SiteCore.Services.pdb
+E:\SiteCore\Services\SiteCore.Services\bin\Debug\SiteCore.Business.Components.dll
+E:\SiteCore\Services\SiteCore.Services\bin\Debug\SiteCore.Business.Entities.dll
+E:\SiteCore\Services\SiteCore.Services\bin\Debug\SiteCore.Data.dll
+E:\SiteCore\Services\SiteCore.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\SiteCore\Services\SiteCore.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\SiteCore\Services\SiteCore.Services\bin\Debug\SiteCore.Business.Components.pdb
+E:\SiteCore\Services\SiteCore.Services\bin\Debug\SiteCore.Business.Entities.pdb
+E:\SiteCore\Services\SiteCore.Services\bin\Debug\SiteCore.Data.pdb
+E:\SiteCore\Services\SiteCore.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\SiteCore\Services\SiteCore.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\SiteCore\Services\SiteCore.Services\obj\Debug\SiteCore.Services.csprojResolveAssemblyReference.cache
+E:\SiteCore\Services\SiteCore.Services\obj\Debug\SiteCore.Services.dll
+E:\SiteCore\Services\SiteCore.Services\obj\Debug\SiteCore.Services.pdb
+E:\SiteCore\Services\SiteCore.Services\bin\Debug\SiteCore.Services.Contracts.dll
+E:\SiteCore\Services\SiteCore.Services\bin\Debug\SiteCore.Services.Contracts.pdb
