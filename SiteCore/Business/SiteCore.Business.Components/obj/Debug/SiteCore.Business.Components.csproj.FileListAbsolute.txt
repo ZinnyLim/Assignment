@@ -1,0 +1,13 @@
+E:\SiteCore\Business\SiteCore.Business.Components\bin\Debug\SiteCore.Business.Components.dll
+E:\SiteCore\Business\SiteCore.Business.Components\bin\Debug\SiteCore.Business.Components.pdb
+E:\SiteCore\Business\SiteCore.Business.Components\bin\Debug\SiteCore.Business.Entities.dll
+E:\SiteCore\Business\SiteCore.Business.Components\bin\Debug\SiteCore.Data.dll
+E:\SiteCore\Business\SiteCore.Business.Components\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\SiteCore\Business\SiteCore.Business.Components\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\SiteCore\Business\SiteCore.Business.Components\bin\Debug\SiteCore.Data.pdb
+E:\SiteCore\Business\SiteCore.Business.Components\bin\Debug\SiteCore.Business.Entities.pdb
+E:\SiteCore\Business\SiteCore.Business.Components\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\SiteCore\Business\SiteCore.Business.Components\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\SiteCore\Business\SiteCore.Business.Components\obj\Debug\SiteCore.Business.Components.csprojResolveAssemblyReference.cache
+E:\SiteCore\Business\SiteCore.Business.Components\obj\Debug\SiteCore.Business.Components.dll
+E:\SiteCore\Business\SiteCore.Business.Components\obj\Debug\SiteCore.Business.Components.pdb

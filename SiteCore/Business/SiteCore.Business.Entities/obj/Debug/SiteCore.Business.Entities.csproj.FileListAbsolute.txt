@@ -1,0 +1,4 @@
+E:\SiteCore\Business\SiteCore.Business.Entities\bin\Debug\SiteCore.Business.Entities.dll
+E:\SiteCore\Business\SiteCore.Business.Entities\bin\Debug\SiteCore.Business.Entities.pdb
+E:\SiteCore\Business\SiteCore.Business.Entities\obj\Debug\SiteCore.Business.Entities.dll
+E:\SiteCore\Business\SiteCore.Business.Entities\obj\Debug\SiteCore.Business.Entities.pdb
